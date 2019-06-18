@@ -1,0 +1,13 @@
+{
+    "name": "prasudiro/umimi-bot",
+    "description": "Moesubs Bot - Kousaka Umi from THE iDOLM@STER Million Live!",
+    "authors": [
+        {
+            "name": "prasudiro",
+            "email": "prassaiyan@gmail.com"
+        }
+    ],
+    "require": {
+        "team-reflex/discord-php": "^4.0"
+    }
+}
