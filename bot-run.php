@@ -3,6 +3,8 @@
 include __DIR__.'/vendor/autoload.php';
 include __DIR__.'/config/config.php';
 
+use Discord\DiscordCommandClient;
+
 $discord = new \Discord\Discord([
   'token' => _TOKEN,
 ]);
